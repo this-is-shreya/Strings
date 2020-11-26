@@ -4,8 +4,7 @@ Created on Thu Nov 26 17:09:25 2020
 
 @author: shrey
 """
-#19BCP123
-#Shreya Srivastava
+
 a=input().split(",")#taking addresses as input splitted by comma
 l=[]
 count=0
